@@ -1,0 +1,23 @@
+#!/bin/bash
+
+
+# Hahtag is the comment in Shell Scripting!!
+
+#echo command display the output on the same line
+
+#read command take the output as like the input command in python(You can also save the output in the variable and then use them nothing)
+
+
+#echo "Enter your Name"
+#read Name
+#echo "Hello $Name"
+
+
+
+#You can also define variable in shell scripting also like other programming languages..
+
+#NAME="Shashwat Agrawal"
+#echo $NAME
+
+
+
